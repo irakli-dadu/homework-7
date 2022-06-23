@@ -10,7 +10,8 @@ body {
     justify-content: space-around;
 }
 .navigation {
-    width: 580px;
+    max-width: 580px;
+    width: 100%;
     margin-top: 87px;
 }
 .logo-img {
@@ -71,9 +72,11 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 .surati1 {
-    height: 400px
+    max-height: 400px;
+    height: 100%;
 }
 /*  section 2 / center div */
 .center-div {

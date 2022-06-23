@@ -1,0 +1,40 @@
+@media (max-width: 1355px) {
+    .picture-div {
+        margin-top: 35px;
+    }
+}
+@media (max-width: 1355px) {
+    .block-1 {
+        align-content: center;
+    }
+}
+@media (max-width: 1190px) {
+    .row-1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-1-2 {
+        margin-top: 20px;
+    }
+    .block-1-3 {
+        margin-top: 20px;
+    }
+    .block 2-2 {
+        margin-top: 20px;
+    }
+    .block-2-3 {
+        margin-top: 20px;
+    }
+    .navigation {
+        display: none;
+    }
+    .header-div {
+        justify-content: start;
+    }
+
+}
+@media (max-width: 1185px) {
+    .picture-div {
+        display: none;
+    }
+}
